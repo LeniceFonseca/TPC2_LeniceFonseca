@@ -1,0 +1,2 @@
+O array names ficara apenas com os valores Ann e Cal visto que ao adicionar Ann no indice 0 o Bob passa para o indice 1
+do array e ao executar o metodo remove sobre o indice 1 o Bob sera eliminado do array.

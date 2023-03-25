@@ -1,0 +1,4 @@
+a) Output: 10
+b) Output: 6
+c) Output: 3
+d) Output: 0

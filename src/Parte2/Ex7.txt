@@ -1,0 +1,8 @@
+a) Total = 25 que eh a soma de todos os elementos do array
+b) Total = 13 que seria a soma de todos os numeros que constam em indices pares do array
+c) Total = 12 que seria a soma de todos os numeros que constam em indices impares do array
+d) O programa daria erro porque o indice 10 nao existe no array
+e) Total = 11
+f) Total = 25
+g) Total = 12
+H) Total = 0

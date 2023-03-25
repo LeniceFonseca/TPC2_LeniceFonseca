@@ -1,0 +1,7 @@
+a) O programa executara 10 instrucoes
+b) O programa executara 10 instrucoes
+c) O programa executara 10 instrucoes
+d) O programa executara 22 instrucoes
+e) O programa executara infinitas instrucoes
+f) O programa executara 11 instrucoes
+g) O programa executara 7 instrucoes
